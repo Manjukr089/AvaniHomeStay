@@ -1,0 +1,42 @@
+Open 3 terminal
+in 1st terminal ->
+cd client
+npm install
+npm i axios
+npm i react-router-dom
+
+after installing above packages
+npm start
+
+
+In 2nd terminal ->
+cd backend
+npm install
+npm i express
+npm i mysql
+npm cors
+npm multer
+npm moment
+npm nodemon
+
+after installing above packages
+nodemon server.js
+
+
+In 3rd terminal ->
+cd admin
+npm install
+npm axios
+npm react-router-dom
+
+after installing above packages
+npm start
+
+
+For database
+open xampp
+start Apache and MySql 
+Then select Mysql admin
+
+then create ->
+ "avani" as database name and import avani databse from Database folder
